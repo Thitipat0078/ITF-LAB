@@ -1,1 +1,2 @@
-# ITF2024
+message = "Hello,ITF-Lab"
+print(message)
